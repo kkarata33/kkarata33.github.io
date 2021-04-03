@@ -9,7 +9,7 @@ name: My Python Adventure in PIC16B
 description: Kendall
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/ucla-math.png
+avatar: https://kkarata33.github.io/master/images/Kendall_Logo.png
 
 #
 # Flags below are optional
@@ -18,14 +18,14 @@ avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: kkarata33@gmail.com
+  facebook: Kendall Arata
   flickr:
-  github: PIC16B/pic16b.github.io # replace with your repo
-  instagram:
+  github: https://github.com/kkarata33/kkarata33.github.io
+  instagram: @kkarata33
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: Hi there
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://kkarata33.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
