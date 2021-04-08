@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nice to meet you, I'm Kendall!
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an explorer, innovator, and a creator. As an undergraduate student at UCLA, I am majoring in Cognitive Science with a Specialization in Computing and a minor in Spanish.
+​
+Aside from school, I love to explore–whether it be in different countries, within my own community, or in my home. From backpacking to skiing, from photography and graphic design, to drawing and jewelry making, I believe that people can best learn about themselves and their place in this world by looking at what's around them.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kkarata33@g.ucla.edu](mailto:kkarata33@g.ucla.edu)
