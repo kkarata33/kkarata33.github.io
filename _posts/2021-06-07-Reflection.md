@@ -4,7 +4,7 @@ title: Project Reflection - MoodSpace
 ---
 
 ## MoodSpace - a Spotify Soundtrack Generator
-####by Kendall Arata, Michael Ting, and Ben Brill
+#### by Kendall Arata, Michael Ting, and Ben Brill
 
 > 1. Overall, what did you achieve in your project?
 
